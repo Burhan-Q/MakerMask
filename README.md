@@ -5,7 +5,7 @@ Vist makermask.org for information regarding the mask designs.
 
   **Find the most recent designs**
 
-[MakerMask Fit](https://github.com/Burhan-Q/MakerMask/blob/master/PDF_drawings/MakerMask_Fit/Face_mask_drawing_ver005_No_lines.PDF)
+[MakerMask Fit](https://github.com/Burhan-Q/MakerMask/blob/master/PDF_drawings/MakerMask_Fit/MakerMask-Fit_v1.2.PDF)
   
 [MakerMask Surge](https://github.com/Burhan-Q/MakerMask/blob/master/PDF_drawings/MakerMask_Surge/pleated_mask-ver006.PDF)
   
